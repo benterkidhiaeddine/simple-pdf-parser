@@ -1,2 +1,4 @@
 # simple-pdf-parser
-This is a simple demo to showcase how to use the pdf.js libary to parse simple pdf files and display them line by line
+This is a simple demo to showcase how to use the pdf.js library to parse simple pdf file and display them line by line
+
+
